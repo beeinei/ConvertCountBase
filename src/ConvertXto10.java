@@ -18,5 +18,8 @@ public class ConvertXto10 {
 
     public static void main(String[] args) {
         System.out.println(convertXto10("4d2", 16));
+        System.out.println(convertXto10("1010101010", 2));
+
+        //if works, output is - 1234 682
     }
 }

@@ -29,6 +29,8 @@ public class Convert10toX {
 
     public static void main(String[] args) {
         System.out.println(convert10toX(1234, 16));
+
+        //if works, output is - 4d2
     }
 
 }
